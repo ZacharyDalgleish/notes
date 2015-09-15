@@ -1,0 +1,139 @@
+[09-Sep-2015 12:36:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/zacrecom/public_html/notes/header.php on line 3
+[09-Sep-2015 12:36:31 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:36:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:36:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 26
+[09-Sep-2015 12:36:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 28
+[09-Sep-2015 12:36:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 62
+[09-Sep-2015 12:36:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 64
+[09-Sep-2015 12:36:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 98
+[09-Sep-2015 12:36:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 100
+[09-Sep-2015 12:36:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 134
+[09-Sep-2015 12:36:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 136
+[09-Sep-2015 12:42:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'notes'@'localhost' (using password: YES) in /home/zacrecom/public_html/notes/header.php on line 3
+[09-Sep-2015 12:42:54 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:42:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:42:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 26
+[09-Sep-2015 12:42:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 28
+[09-Sep-2015 12:42:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 62
+[09-Sep-2015 12:42:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 64
+[09-Sep-2015 12:42:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 98
+[09-Sep-2015 12:42:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 100
+[09-Sep-2015 12:42:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 134
+[09-Sep-2015 12:42:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 136
+[09-Sep-2015 12:43:04 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'notes'@'localhost' (using password: YES) in /home/zacrecom/public_html/notes/header.php on line 3
+[09-Sep-2015 12:43:04 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:43:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:43:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 26
+[09-Sep-2015 12:43:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 28
+[09-Sep-2015 12:43:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 62
+[09-Sep-2015 12:43:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 64
+[09-Sep-2015 12:43:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 98
+[09-Sep-2015 12:43:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 100
+[09-Sep-2015 12:43:04 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 134
+[09-Sep-2015 12:43:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 136
+[09-Sep-2015 12:43:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'notes'@'localhost' (using password: YES) in /home/zacrecom/public_html/notes/header.php on line 3
+[09-Sep-2015 12:43:18 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:43:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:43:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 26
+[09-Sep-2015 12:43:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 28
+[09-Sep-2015 12:43:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 62
+[09-Sep-2015 12:43:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 64
+[09-Sep-2015 12:43:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 98
+[09-Sep-2015 12:43:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 100
+[09-Sep-2015 12:43:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 134
+[09-Sep-2015 12:43:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 136
+[09-Sep-2015 12:44:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'notes'@'localhost' (using password: YES) in /home/zacrecom/public_html/notes/header.php on line 3
+[09-Sep-2015 12:44:48 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:44:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:44:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 26
+[09-Sep-2015 12:44:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 28
+[09-Sep-2015 12:44:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 62
+[09-Sep-2015 12:44:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 64
+[09-Sep-2015 12:44:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 98
+[09-Sep-2015 12:44:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 100
+[09-Sep-2015 12:44:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 134
+[09-Sep-2015 12:44:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 136
+[09-Sep-2015 12:45:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'zacrecom_notes'@'localhost' to database 'notes' in /home/zacrecom/public_html/notes/header.php on line 3
+[09-Sep-2015 12:45:18 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:45:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:45:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 26
+[09-Sep-2015 12:45:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 28
+[09-Sep-2015 12:45:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 62
+[09-Sep-2015 12:45:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 64
+[09-Sep-2015 12:45:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 98
+[09-Sep-2015 12:45:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 100
+[09-Sep-2015 12:45:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 134
+[09-Sep-2015 12:45:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 136
+[09-Sep-2015 12:47:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'zacrecom_notes'@'localhost' (using password: YES) in /home/zacrecom/public_html/notes/header.php on line 3
+[09-Sep-2015 12:47:01 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:47:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:47:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 26
+[09-Sep-2015 12:47:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 28
+[09-Sep-2015 12:47:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 62
+[09-Sep-2015 12:47:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 64
+[09-Sep-2015 12:47:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 98
+[09-Sep-2015 12:47:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 100
+[09-Sep-2015 12:47:01 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 134
+[09-Sep-2015 12:47:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 136
+[09-Sep-2015 12:47:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'notes'@'localhost' (using password: YES) in /home/zacrecom/public_html/notes/header.php on line 3
+[09-Sep-2015 12:47:36 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:47:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:47:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 26
+[09-Sep-2015 12:47:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 28
+[09-Sep-2015 12:47:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 62
+[09-Sep-2015 12:47:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 64
+[09-Sep-2015 12:47:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 98
+[09-Sep-2015 12:47:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 100
+[09-Sep-2015 12:47:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 134
+[09-Sep-2015 12:47:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 136
+[09-Sep-2015 12:50:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'notes'@'localhost' (using password: YES) in /home/zacrecom/public_html/notes/header.php on line 3
+[09-Sep-2015 12:50:36 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:50:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:50:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 26
+[09-Sep-2015 12:50:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 28
+[09-Sep-2015 12:50:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 62
+[09-Sep-2015 12:50:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 64
+[09-Sep-2015 12:50:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 98
+[09-Sep-2015 12:50:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 100
+[09-Sep-2015 12:50:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 134
+[09-Sep-2015 12:50:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 136
+[09-Sep-2015 12:53:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'notes'@'localhost' (using password: YES) in /home/zacrecom/public_html/notes/header.php on line 3
+[09-Sep-2015 12:53:30 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:53:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:53:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 26
+[09-Sep-2015 12:53:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 28
+[09-Sep-2015 12:53:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 62
+[09-Sep-2015 12:53:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 64
+[09-Sep-2015 12:53:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 98
+[09-Sep-2015 12:53:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 100
+[09-Sep-2015 12:53:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 134
+[09-Sep-2015 12:53:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 136
+[09-Sep-2015 12:53:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'notes'@'localhost' (using password: YES) in /home/zacrecom/public_html/notes/header.php on line 3
+[09-Sep-2015 12:53:31 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:53:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:53:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 26
+[09-Sep-2015 12:53:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 28
+[09-Sep-2015 12:53:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 62
+[09-Sep-2015 12:53:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 64
+[09-Sep-2015 12:53:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 98
+[09-Sep-2015 12:53:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 100
+[09-Sep-2015 12:53:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 134
+[09-Sep-2015 12:53:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 136
+[09-Sep-2015 12:54:14 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'notes'@'localhost' (using password: YES) in /home/zacrecom/public_html/notes/header.php on line 3
+[09-Sep-2015 12:54:14 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:54:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zacrecom/public_html/notes/header.php:3) in /home/zacrecom/public_html/notes/header.php on line 5
+[09-Sep-2015 12:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 26
+[09-Sep-2015 12:54:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 28
+[09-Sep-2015 12:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 62
+[09-Sep-2015 12:54:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 64
+[09-Sep-2015 12:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 98
+[09-Sep-2015 12:54:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 100
+[09-Sep-2015 12:54:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zacrecom/public_html/notes/index.php on line 134
+[09-Sep-2015 12:54:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zacrecom/public_html/notes/index.php on line 136
+[09-Sep-2015 12:55:29 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/zacrecom/public_html/notes/login-process.php on line 7
+[09-Sep-2015 12:55:29 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/zacrecom/public_html/notes/login-process.php on line 8
+[09-Sep-2015 21:38:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zacrecom/public_html/notes/notes.php on line 24
+[09-Sep-2015 21:39:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zacrecom/public_html/notes/notes.php on line 24
+[09-Sep-2015 23:15:46 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/zacrecom/public_html/notes/notes.php on line 70
+[09-Sep-2015 23:16:05 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/zacrecom/public_html/notes/notes.php on line 70
+[09-Sep-2015 23:16:13 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/zacrecom/public_html/notes/notes.php on line 70
